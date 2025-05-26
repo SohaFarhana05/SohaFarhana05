@@ -16,3 +16,9 @@
 |  National Institute of Technology, Andhra Pradesh  |  Computer Science | 2022-2026 | 8.2    |
 |  Narayana Junior College                           |  MPC              | 2020-2022 | 98.6%  |
 
+### Achievements
+
+* **Semi-finalist** at the Google Girl Hackathon 2025.
+* 4 star in Python, Java, C, SQL in Hackerrank.
+   
+
