@@ -21,4 +21,7 @@
 * **Semi-finalist** at the Google Girl Hackathon 2025.
 * 4 star in Python, Java, C, SQL in Hackerrank.
    
-
+### Experience 
+* **AI Intern** at  **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
+* **Joint Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - May 2025)*
+  
