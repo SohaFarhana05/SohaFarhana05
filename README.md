@@ -31,6 +31,7 @@
 * 4 star in Python, Java, C, SQL in Hackerrank.
    
 ### Experience 
+* **Research Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Current)*
 * **AI Intern** at  **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
 * **Joint Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - May 2025)*
   
