@@ -19,11 +19,11 @@
 
 ## About me 
 ### Education
-| Name of the college                                | Stream            |  Year     | Grades | 
-|----------------------------------------------------|-------------------|-----------|--------|
-|  Indian Institute of Technology, Madras            |  Data Science     | 2024-2028 | 8.67   |
-|  National Institute of Technology, Andhra Pradesh  |  Computer Science | 2022-2026 | 8.2    |
-|  Narayana Junior College                           |  MPC              | 2020-2022 | 98.6%  |
+| Name of the college                                | Stream            |  Year     | 
+|----------------------------------------------------|-------------------|-----------|
+|  Indian Institute of Technology, Madras            |  Data Science     | 2024-2028 | 
+|  National Institute of Technology, Andhra Pradesh  |  Computer Science | 2022-2026 | 
+|  Narayana Junior College                           |  MPC              | 2020-2022 | 
 
 ### Achievements
 
