@@ -7,8 +7,6 @@
 
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohafarhana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sohafarhana?trk=profile-badge">Soha Farhana</a></div>
-              
 ## My portfolio website - [Portfolio](https://sohafarhana05.github.io/Portfolio/)
 - 🔭 I’m currently working on a vehicle parking application.
 - 🌱 I’m currently learning the holy grail for cs - pdsa and also to make good websites.
