@@ -6,6 +6,7 @@
  -->
 
 <br>
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sohafarhana05.sohafarhana05)
 
 ## My portfolio website - [Portfolio](https://sohafarhana05.github.io/Portfolio/)
 - 🔭 I’m currently working on a vehicle parking application.
