@@ -1,10 +1,4 @@
-<h1 align="center"><b>Hi , I'm Soha Farhana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<!-- Visitor Analytics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohaFarhana05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSohaFarhana05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visitors&edge_flat=false" alt="Visitor count" />
-</p>
+<h1 align="center"><b>Hi , I'm Soha Farhana </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
 <!-- GitHub Analytics Dashboard -->
 <div align="center">
@@ -46,6 +40,12 @@
 
 </div>
 
+<!-- Visitor Analytics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SohaFarhana05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SohaFarhana05.SohaFarhana05&left_color=green&right_color=red" alt="Visitor count" />
+</p>
+
 <br>
 
 ## My portfolio website - [Portfolio](https://sohafarhana05.github.io/Portfolio/)
@@ -74,6 +74,7 @@
 ### 🏆 Achievements
 
 * 🥈 **Semi-finalist** at the **Google Girl Hackathon 2025**.
+* 🥈 **Semi-finalist** at **JPMC Code for Good'25**.
 * ⭐ **4 star** in Python, Java, C, SQL in **Hackerrank**.
 
 ### 💼 Experience
@@ -85,8 +86,39 @@
 
 ### 💻 Tech Stack & Skills
 
+<!-- Programming Languages -->
+**Programming Languages:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,flask,django,mysql,mongodb,git,github,linux,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" alt="Programming Languages" />
+</p>
+
+<!-- Frameworks & Libraries -->
+**Frameworks & Libraries:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,pytorch" alt="Frameworks & Libraries" />
+</p>
+
+<!-- Databases & Cloud -->
+**Databases & Cloud:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,vercel" alt="Databases & Cloud" />
+</p>
+
+<!-- Tools & Technologies -->
+**Tools & Technologies:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,figma" alt="Tools & Technologies" />
+</p>
+
+<!-- Data Science & ML -->
+**Data Science & Machine Learning:**
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
 </p>
 
 ---
@@ -100,7 +132,7 @@
   <a href="mailto:sohafarhana@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/soha-farhana" target="_blank">
+  <a href="https://www.linkedin.com/in/sohafarhana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SohaFarhana05" target="_blank">
