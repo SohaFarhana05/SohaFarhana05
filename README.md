@@ -1,12 +1,14 @@
 <h1 align="center"><b>Hi , I'm Soha Farhana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Data+Science+Student,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+
+<p align="center">
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sohafarhana05.sohafarhana05)
 </p>
- -->
+
+<p align="center">
+  [![Soha Farhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohafarhana05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <br>
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sohafarhana05.sohafarhana05)
 
 ## My portfolio website - [Portfolio](https://sohafarhana05.github.io/Portfolio/)
 - 🔭 I’m currently working on a vehicle parking application.
@@ -17,21 +19,20 @@
 - ⚡ Fun fact: I was born on the same day as Sundar Pichai.
 
 
-## About me 
+## About me
 ### Education
-| Name of the college                                | Stream            |  Year     | 
-|----------------------------------------------------|-------------------|-----------|
-|  Indian Institute of Technology, Madras            |  Data Science     | 2024-2028 | 
-|  National Institute of Technology, Andhra Pradesh  |  Computer Science | 2022-2026 | 
-|  Narayana Junior College                           |  MPC              | 2020-2022 | 
+| Name of the college                   | Stream            | Year      |
+|---------------------------------------|-------------------|-----------|
+| Indian Institute of Technology, Madras | Data Science      | 2024-2028 |
+| National Institute of Technology, Andhra Pradesh | Computer Science  | 2022-2026 |
+| Narayana Junior College               | MPC               | 2020-2022 |
 
 ### Achievements
 
 * **Semi-finalist** at the Google Girl Hackathon 2025.
 * 4 star in Python, Java, C, SQL in Hackerrank.
-   
-### Experience 
+
+### Experience
 * **Machine Learning Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Current)*
-* **AI Intern** at  **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
+* **AI Intern** at **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
 * **Joint Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - May 2025)*
-  
