@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Soha Farhana </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<h1 align="center"><b>Hi , I'm <span style="background: linear-gradient(45deg, #1e3a8a, #3b82f6, #60a5fa, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Soha Farhana</span> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- GitHub Analytics Dashboard -->
 <div align="center">
@@ -12,27 +12,27 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohaFarhana05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaFarhana05&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohaFarhana05&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaFarhana05&layout=compact&langs_count=8&theme=cobalt"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaFarhana05&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaFarhana05&bg_color=1a1b27&color=60a5fa&line=60a5fa&point=93c5fd&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaFarhana05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaFarhana05&theme=cobalt&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SohaFarhana05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SohaFarhana05&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Real-time Analytics
-- **Total Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=SohaFarhana05&color=brightgreen&style=flat-square)
+- **Total Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=SohaFarhana05&color=60a5fa&style=flat-square)
 - **GitHub Followers:** ![GitHub followers](https://img.shields.io/github/followers/SohaFarhana05?style=social)
 - **Repository Stars:** ![GitHub User's stars](https://img.shields.io/github/stars/SohaFarhana05?style=social)
 
@@ -42,8 +42,8 @@
 
 <!-- Visitor Analytics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohaFarhana05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SohaFarhana05.SohaFarhana05&left_color=green&right_color=red" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=SohaFarhana05&label=Profile%20views&color=60a5fa&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SohaFarhana05.SohaFarhana05&left_color=60a5fa&right_color=93c5fd" alt="Visitor count" />
 </p>
 
 <br>
@@ -52,11 +52,12 @@
 
 <!-- Animated About Me -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;JEE+Advanced+Qualifier;99.999%25+in+JEE+Main+Mathematics;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently working on a **vehicle parking application**.
 - 🌱 I'm currently learning the holy grail for cs - **PDSA** and also to make **good websites**.
+- 🧮 I'm passionate about **Mathematics** - achieved 99.999 percentile in JEE Main Math!
 - 💬 Ask me about **anything**.
 - 📫 How to reach me: My email - **sohafarhana@gmail.com**
 - 😄 Pronouns: **She/Her**
@@ -68,11 +69,12 @@
 | Name of the college                   | Stream            | Year      | Status |
 |---------------------------------------|-------------------|-----------|--------|
 | Indian Institute of Technology, Madras | Data Science      | 2024-2028 | 🎯 Current |
-| National Institute of Technology, Andhra Pradesh | Computer Science  | 2022-2026 | � Current |
+| National Institute of Technology, Andhra Pradesh | Computer Science  | 2022-2026 | 🎯 Current |
 | Narayana Junior College               | MPC               | 2020-2022 | ✅ Completed |
 
 ### 🏆 Achievements
 
+* 🎯 **JEE Advanced Qualified** - Achieved **99.999 percentile** in JEE Main Mathematics.
 * 🥈 **Semi-finalist** at the **Google Girl Hackathon 2025**.
 * 🥈 **Semi-finalist** at **JPMC Code for Good'25**.
 * ⭐ **4 star** in Python, Java, C, SQL in **Hackerrank**.
@@ -89,25 +91,25 @@
 <!-- Programming Languages -->
 **Programming Languages:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql&perLine=4" alt="Programming Languages" />
 </p>
 
 <!-- Frameworks & Libraries -->
 **Frameworks & Libraries:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,pytorch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,pytorch&perLine=4" alt="Frameworks & Libraries" />
 </p>
 
 <!-- Databases & Cloud -->
 **Databases & Cloud:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,vercel" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,vercel&perLine=4" alt="Databases & Cloud" />
 </p>
 
 <!-- Tools & Technologies -->
 **Tools & Technologies:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,figma" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,figma&perLine=4" alt="Tools & Technologies" />
 </p>
 
 <!-- Data Science & ML -->
@@ -152,6 +154,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <i>Built with 🩵 by Soha</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
