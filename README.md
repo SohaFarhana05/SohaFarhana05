@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi , I'm <span style="background: linear-gradient(45deg, #1e3a8a, #3b82f6, #60a5fa, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Soha Farhana</span> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <!-- GitHub Analytics Dashboard -->
 <div align="center">
 
@@ -145,7 +144,11 @@
 
 <!-- Inspirational Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h3 style="color: #60a5fa;">💭 My Philosophy</h3>
+  <p style="font-style: italic; font-size: 18px; color: #93c5fd; max-width: 600px; margin: 0 auto;">
+    "Practice makes progress, not perfection. But when you practice with purpose and passion, excellence becomes inevitable."
+  </p>
+  <p style="color: #60a5fa; font-weight: bold;">- Soha Farhana</p>
 </div>
 
 <!-- Footer Message -->
