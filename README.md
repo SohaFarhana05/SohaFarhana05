@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Soha Farhana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sohafarhana05.sohafarhana05)
+  ![Visitor Count](https://api.countapi.xyz/hit/sohafarhana05.github.io/visits?&style=flat)
 </p>
 
 <p align="center">
