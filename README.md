@@ -10,6 +10,7 @@
 
 <br>
 
+
 <!-- GitHub Stats Cards -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohaFarhana05&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -24,11 +25,6 @@
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaFarhana05&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SohaFarhana05&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Real-time Analytics
