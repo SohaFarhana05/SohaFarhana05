@@ -105,7 +105,7 @@
 <!-- Tools & Technologies -->
 **Tools & Technologies:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,copilot,figma&perLine=4" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,github-copilot,figma&perLine=4" alt="Tools & Technologies" />
 </p>
 
 <!-- Data Science & ML -->
