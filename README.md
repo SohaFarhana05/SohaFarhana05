@@ -51,7 +51,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;JEE+Advanced+Qualifier;99.999%25+in+JEE+Main+Mathematics;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
-- 🔭 I'm currently working on a **vehicle parking application**.
+- 🔭 I'm currently working on modification of my passion project - **Resume Analyzer**
 - 🌱 I'm currently learning the holy grail for cs - **PDSA** and also to make **good websites**.
 - 🧮 I'm passionate about **Mathematics** - achieved 99.999 percentile in JEE Main Math!
 - 💬 Ask me about **anything**.
@@ -76,7 +76,7 @@
 * ⭐ **4 star** in Python, Java, C, SQL in **Hackerrank**.
 
 ### 💼 Experience
-* 🤖 **Machine Learning Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Current)*
+* 🤖 **Machine Learning Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Sep 2025)*
 * 🧠 **AI Intern** at **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
 * 👥 **Joint Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - May 2025)*
 
@@ -93,19 +93,19 @@
 <!-- Frameworks & Libraries -->
 **Frameworks & Libraries:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,pytorch&perLine=4" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,django,pytorch&perLine=4" alt="Frameworks & Libraries" />
 </p>
 
 <!-- Databases & Cloud -->
 **Databases & Cloud:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,vercel&perLine=4" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,railway,vercel&perLine=4" alt="Databases & Cloud" />
 </p>
 
 <!-- Tools & Technologies -->
 **Tools & Technologies:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,figma&perLine=4" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,copilot,figma&perLine=4" alt="Tools & Technologies" />
 </p>
 
 <!-- Data Science & ML -->
@@ -156,7 +156,7 @@
 ---
 
 <p align="center">
-  <i>Built with 🩵 by Soha</i>
+  <i>Built with 🩵 by Soha Farhana</i>
 </p>
 
 <p align="center">
