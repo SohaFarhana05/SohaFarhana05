@@ -5,7 +5,7 @@
 
 <!-- Animated About Me -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;JEE+Advanced+Qualifier;99.999%25+in+JEE+Main+Mathematics;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad;Mathematics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently working on modification of my passion project - **Resume Analyzer**
