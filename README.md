@@ -1,48 +1,5 @@
 <h1 align="center"><b>Hi , I'm <span style="background: linear-gradient(45deg, #1e3a8a, #3b82f6, #60a5fa, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Soha Farhana</span> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- GitHub Analytics Dashboard -->
-<div align="center">
-
-### 📊 Who's Visiting My Profile?
-
-<details>
-<summary><b>🔍 Click to see detailed visitor analytics & GitHub stats!</b></summary>
-
-<br>
-
-
-<!-- GitHub Stats Cards -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohaFarhana05&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaFarhana05&layout=compact&langs_count=8&theme=cobalt"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaFarhana05&bg_color=1a1b27&color=60a5fa&line=60a5fa&point=93c5fd&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaFarhana05&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📈 Real-time Analytics
-- **Total Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=SohaFarhana05&color=60a5fa&style=flat-square)
-- **GitHub Followers:** ![GitHub followers](https://img.shields.io/github/followers/SohaFarhana05?style=social)
-- **Repository Stars:** ![GitHub User's stars](https://img.shields.io/github/stars/SohaFarhana05?style=social)
-
-</details>
-
-</div>
-
-<!-- Visitor Analytics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohaFarhana05&label=Profile%20views&color=60a5fa&style=flat" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SohaFarhana05.SohaFarhana05&left_color=60a5fa&right_color=93c5fd" alt="Visitor count" />
-</p>
-
-<br>
 
 ## My portfolio website - [Portfolio](https://sohafarhana05.github.io/Portfolio/)
 
@@ -78,7 +35,7 @@
 ### 💼 Experience
 * 🤖 **Machine Learning Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Sep 2025)*
 * 🧠 **AI Intern** at **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
-* 👥 **Joint Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - May 2025)*
+* 👥 **Co-Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - Sep 2025)*
 
 ---
 
