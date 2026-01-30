@@ -484,7 +484,7 @@ def binary_search(arr, target):
     left, right = 0, len(arr) - 1
     
     while left <= right:
-        mid = left + (right - left) // 2  # Avoid overflow
+        mid = left + (right - left) // 2
         
         if arr[mid] == target:
             return mid
@@ -608,7 +608,7 @@ def backtrack(state, choices):
     
     for choice in choices:
         make_choice(state, choice)
-        backtrack(state, remaining_choices)
+        backtrack(state, choices)  # Recurse with current choices
         undo_choice(state, choice)  # KEY: Backtrack!
 ```
 
@@ -1017,8 +1017,6 @@ for right in range(n):
 7. **Code by hand**: Interview conditions - practice without IDE
 
 **Remember**: Every expert was once a beginner. Progress > Perfection! 🚀
-
-</details>
 
 ---
 
