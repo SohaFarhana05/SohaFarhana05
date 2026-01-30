@@ -82,45 +82,6 @@
 
 ---
 
-### 💻 Tech Stack & Skills
-
-<!-- Programming Languages -->
-**Programming Languages:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql&perLine=4" alt="Programming Languages" />
-</p>
-
-<!-- Frameworks & Libraries -->
-**Frameworks & Libraries:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,jquery,tensorflow,django,pytorch&perLine=4" alt="Frameworks & Libraries" />
-</p>
-
-<!-- Databases & Cloud -->
-**Databases & Cloud:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,heroku,railway,vercel&perLine=4" alt="Databases & Cloud" />
-</p>
-
-<!-- Tools & Technologies -->
-**Tools & Technologies:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,bash,github-copilot,figma&perLine=4" alt="Tools & Technologies" />
-</p>
-
-<!-- Data Science & ML -->
-**Data Science & Machine Learning:**
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-</p>
-
----
-
 <!-- Connect with me -->
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
