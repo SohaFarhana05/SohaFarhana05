@@ -8,11 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+IIT+Madras;Computer+Science+%40+NIT+Andhra+Pradesh;Machine+Learning+Enthusiast;Full+Stack+Developer;Google+Girl+Hackathon+Semi-finalist;JPMC+Code+for+Good'25+Semi-finalist;ML+Intern+%40+IIIT+Hyderabad;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
-- 🔭 I'm currently working on modification of my passion project - **Resume Analyzer**
+- 🔭 I'm currently working as an AI Engineer at PepsiCo
 - 🌱 I'm currently learning the holy grail for cs - **PDSA** and also to make **good websites**.
 - 🧮 I'm passionate about **Mathematics** - achieved 99.999 percentile in JEE Main Math!
 - 💬 Ask me about **anything**.
-- 📫 How to reach me: My email - **sohafarhana@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I was born on the **same day as Sundar Pichai**.
 
@@ -22,7 +21,7 @@
 | Name of the college                   | Stream            | Year      | Status |
 |---------------------------------------|-------------------|-----------|--------|
 | Indian Institute of Technology, Madras | Data Science      | 2024-2028 | 🎯 Current |
-| National Institute of Technology, Andhra Pradesh | Computer Science  | 2022-2026 | 🎯 Current |
+| National Institute of Technology, Andhra Pradesh | Computer Science  | 2022-2026 | ✅ Completed |
 | Narayana Junior College               | MPC               | 2020-2022 | ✅ Completed |
 
 ### 🏆 Achievements
@@ -33,6 +32,8 @@
 * ⭐ **4 star** in Python, Java, C, SQL in **Hackerrank**.
 
 ### 💼 Experience
+* 🧠 **AI Engineer** at **PepsiCo** *(Sep 2026 - Current)*
+* 🧠 **AI Engineering Intern** at **PepsiCo** *(Jan 2026 - July 2026)*
 * 🤖 **Machine Learning Intern** at **International Institute of Technology, Hyderabad** *(June 2025-Sep 2025)*
 * 🧠 **AI Intern** at **Infosys SpringBoard** *(Dec 2024 - Mar 2025)*
 * 👥 **Co-Secretary** at **CSE Association at NIT Andhra Pradesh** *(Oct 2023 - Sep 2025)*
